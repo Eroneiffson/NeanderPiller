@@ -1,0 +1,10 @@
+var
+seja i
+seja a
+
+algoritmo
+leia i
+leia a
+para a ate i
+escreva a
+fim
